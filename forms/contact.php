@@ -29,7 +29,7 @@
     'host' => 'mail.privateemail.com',
     'username' => 'mol@accrad.com',
     'password' => 'Kingmol121',
-    'port' => '993'
+    'port' => '465'
   );
  
 
