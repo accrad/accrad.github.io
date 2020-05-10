@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   font-weight: 600;
   padding: 0 3px;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .nav-menu > ul > li > a:before {
@@ -478,13 +478,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.8);
+  color: #fff;
   margin: 10px 0 0 0;
-  font-size: 30px;
+  font-size: 30 px;
 }
 
 #hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -619,7 +619,7 @@ section {
 
 .about .content h3 {
   font-weight: 600;
-  font-size: 32px;
+  font-size: 42px;
   color: #2c4964;
 }
 
@@ -900,7 +900,7 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  font-style: normal;
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
   background: #fff;
@@ -1301,7 +1301,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Roboto", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1650,7 +1650,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 #footer .footer-top h4 {
